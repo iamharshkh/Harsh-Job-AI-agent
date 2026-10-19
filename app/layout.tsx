@@ -1,1 +1,0 @@
-import "./globals.css";export const metadata={title:"Harsh AI Job Agent",description:"Personal job discovery dashboard"};export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
