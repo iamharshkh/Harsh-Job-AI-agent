@@ -1,1 +1,0 @@
-export type Job={id:string;source:string;source_id?:string|null;title:string;company:string;location?:string|null;remote?:boolean|null;url:string;description?:string|null;salary?:string|null;posted_at?:string|null;discovered_at?:string|null;match_score?:number|null;status?:string|null;tags?:string[]|null};
